@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "transform_coms",
+  "info": {
+    "singularName": "transform-com",
+    "pluralName": "transform-coms",
+    "displayName": "transform-com"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "data": {
+      "type": "text"
+    },
+    "head": {
+      "type": "text"
+    }
+  }
+}

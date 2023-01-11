@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "loyal_accs",
+  "info": {
+    "singularName": "loyal-acc",
+    "pluralName": "loyal-accs",
+    "displayName": "loyal-acc"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "head": {
+      "type": "string"
+    },
+    "data": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tean_coms",
+  "info": {
+    "singularName": "tean-com",
+    "pluralName": "tean-coms",
+    "displayName": "Tean-com"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "head": {
+      "type": "string"
+    },
+    "data": {
+      "type": "text"
+    }
+  }
+}

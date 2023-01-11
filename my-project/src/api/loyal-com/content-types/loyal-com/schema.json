@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "loyal_coms",
+  "info": {
+    "singularName": "loyal-com",
+    "pluralName": "loyal-coms",
+    "displayName": "loyal-com"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "head": {
+      "type": "string"
+    },
+    "data": {
+      "type": "text"
+    }
+  }
+}
